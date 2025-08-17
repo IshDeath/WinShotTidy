@@ -1,0 +1,15 @@
+* text=auto
+*.cs        text
+*.csproj    text
+*.sln       text
+*.json      text
+*.md        text
+*.ps1       text
+*.pubxml    text
+*.png       binary
+*.jpg       binary
+*.gif       binary
+*.dll       binary
+*.exe       binary
+*.pdb       binary
+*.zip       binary

@@ -426,12 +426,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
-# Extra
+# Extra safety
 publish/
 artifacts/
 *.exe
 *.dll
 *.pdb
 *.zip
-~$*
-*.tmp
