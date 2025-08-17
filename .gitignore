@@ -426,3 +426,12 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+# Extra
+publish/
+artifacts/
+*.exe
+*.dll
+*.pdb
+*.zip
+~$*
+*.tmp
